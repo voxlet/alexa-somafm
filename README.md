@@ -3,7 +3,7 @@
 
 A quick and dirty implementation of a Soma FM skill for my personal use, since the official one is currently not available in Japan. Only plays Fluid, which is what I code to 95% of the time.
 
-The following sections are from the Alexa Skills Template.
+The following sections are from the [Alexa Skills Template](https://github.com/jreighley/alexatemplate).
 
 ## Prerequisites
 
